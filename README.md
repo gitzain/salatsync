@@ -3,7 +3,6 @@ SalatSync is a simple yet powerful script that generates .ics (iCalendar) files 
 
 ## Table of content
 - [Motivation](#motivation)
-- [Screenshots](#screenshots)
 - [Installation & Usage](#installation--usage)
     - [Installation](#installation)
     - [Usage](#usage)
@@ -13,10 +12,7 @@ SalatSync is a simple yet powerful script that generates .ics (iCalendar) files 
 - [License](#license)
 
 ## Motivation
-TODO: Describe why this project exists
-
-## Screenshots
-TODO: Screenshots of the app
+The motivation behind this project stemmed from a desire to streamline daily routines by having everything in one place—Google Calendar. Instead of relying on multiple apps or manual tracking for prayer times, I wanted a seamless integration that would automatically add prayer times to my existing calendar. This ensures that I never miss a prayer, while also keeping my schedule organized and consolidated in a single, convenient location.
 
 ## Development
 ### First time
@@ -37,13 +33,14 @@ TODO: Screenshots of the app
 ## Installation & Usage
 
 ### Installation
-TODO: Describe the installation process as below and delete this line
-1. Step 1 details here
-2. Step 2 details here
-3. Step 3 details here
+1. Download the script
 
 ### Usage
-TODO: Write usage instructions as below and delete this line
+1. Update the location and timezone in the script in your favorite text editor.
+2. Run the scipt via
+```
+python salatsync.py
+```
 
 ## Contributing
 1. Fork it!
@@ -57,8 +54,8 @@ TODO: Write usage instructions as below and delete this line
 
 ## Credits
 TODO: Write credits as below and delete this line
-- Name of person
-- Template for this README is <a href="https://github.com/gitzain/template-README">template-readme</a> created by <a href="https://iamzain.com">Zain Khan</a>
+- Created by <a href="https://iamzain.com">Zain Khan</a>.
+- Template for this README is <a href="https://github.com/gitzain/template-README">template-readme</a> created by <a href="https://iamzain.com">Zain Khan</a>.
 
 ## License
 See the LICENSE file in this project's directory.
