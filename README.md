@@ -3,6 +3,7 @@ SalatSync is a simple yet powerful script that generates .ics (iCalendar) files 
 
 ## Table of content
 - [Motivation](#motivation)
+- [Development](#development)
 - [Installation & Usage](#installation--usage)
     - [Installation](#installation)
     - [Usage](#usage)
