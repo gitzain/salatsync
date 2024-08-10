@@ -1,0 +1,6 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Output file of the script
+prayer_times.ics
